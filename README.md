@@ -1,6 +1,6 @@
 <img src="/assets/ZenYukti Logo.png" alt="ZenYukti Logo" align="right" height="200" />
 
-<p align="left" style="font-size: 2.2rem; font-weight: 700; margin: 0;">ZenYukti</p>
+## ZenYukti
 
 ---
 
