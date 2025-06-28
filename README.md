@@ -1,36 +1,54 @@
-<img src="/assets/ZenYukti Logo.png" alt="ZenYukti Logo" align="right" height="200" />
+<img src="assets/ZenYuktiBanner.png" alt="ZenYukti Cover" style="width:100%; border-radius: 12px;" />
 
-## ZenYukti
-
----
+# ZenYukti
 
 > *Learn. Build. Share.*
 
-<p>An inspiring **developer community** building real-world solutions through **open collaboration**</p>
+**ZenYukti** is a community-driven developer collective focused on building real-world solutions through open collaboration, creative projects, and active learning.
 
-## 💡 Who We Are
-
-**ZenYukti** is a tech-enthusiastic team of students passionate about:
-- Web & App **Development**
-- **Hackathons** & Problem Solving
-- **Open Source** Collaboration
-- Building impactful side **projects**
+---
 
 ## 🚀 What We Do
 
-- 👨‍💻 Participate in hackathons
-- 🤝 Collaborate on open-source projects
-- 🧠 Learn by doing & sharing knowledge
-- 🌱 Mentor juniors, grow together
-- 🤝 And Connect with Seniors
-
-## 🌍 Join Us
-
-We're always open to curious minds!  
-Whether you're into design, code, or curious collaboration — ZenYukti welcomes you.
-
-📩 Contact: [zenyukti@ayushhardeniya.site](mailto:zenyukti@ayushhardeniya.site)  
-🌐 Website (Coming Soon) @ [https://zenyukti.github.io](https://zenyukti.github.io)
+- 🧠 **Learn** by solving problems & exploring new tools
+- 🔧 **Build** creative and scalable tech projects
+- 🔁 **Share** knowledge through collaboration, open-source, and mentorship
 
 ---
-*“Built by Students. Backed by Passion.”*
+
+## 💡 Core Areas
+
+- 💻 Web & App Development  
+- ⚙️ Open Source Contributions  
+- 🧪 Hackathons & Problem Solving  
+- 🛠️ Real-World Project Experiments
+
+---
+
+## 🫱‍🫲 Join the Movement
+
+Whether you're a beginner, creator, or explorer — ZenYukti welcomes you to the journey. We value curiosity, commitment, and community.
+
+- 🌐 Website: [https://zenyukti.github.io](https://zenyukti.github.io)
+- 📬 Email: [zenyukti@ayushhardeniya.site](mailto:zenyukti@ayushhardeniya.site)
+- 💬 Discord: [Join the Server](#) *(add link once live)*
+
+---
+
+## 📌 Quick Links
+
+- [👥 Discussions](https://github.com/ZenYukti/community/discussions)
+- [📂 Project Repositories](https://github.com/ZenYukti?tab=repositories)
+- [📄 Contribute Guidelines](https://github.com/ZenYukti/.github/blob/main/CONTRIBUTING.md)
+
+---
+
+### 🫶 *“We don’t just code — we play it.”*  
+ZenYukti • Crafted by minds that imagine more.
+
+---
+
+**👤 Founder & Authority**  
+**Ayush Hardeniya**  
+*(Legal Name: Ayush Sharma)*
+[Reach Out](https://ayushhardeniya.site)
