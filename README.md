@@ -54,5 +54,5 @@ ZenYukti • Crafted by minds that imagine more.
 [Reach Out](https://ayushhardeniya.site)
 
 <br><br>
-> *ZenYukti is an original initiative by Ayush Hardeniya. All materials, content, and designs are protected by copyright.*
+> *ZenYukti is an original initiative by Ayush Hardeniya. All materials, content, and designs are protected by &copy; copyright.*
 
