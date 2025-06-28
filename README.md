@@ -50,5 +50,5 @@ ZenYukti • Crafted by minds that imagine more.
 
 **👤 Founder & Authority**  
 **Ayush Hardeniya**  
-*(Legal Name: Ayush Sharma)*
+*(Legal Name: Ayush Sharma)* <br>
 [Reach Out](https://ayushhardeniya.site)
