@@ -31,7 +31,7 @@ Whether you're a beginner, creator, or explorer — ZenYukti welcomes you to the
 
 - 🌐 Website: [https://zenyukti.github.io](https://zenyukti.github.io)
 - 📬 Email: [zenyukti@ayushhardeniya.site](mailto:zenyukti@ayushhardeniya.site)
-- 💬 Discord: [Join the Server](#) *(add link once live)*
+- 💬 Discord: [Join the Server](https://discord.gg/9nWMSEfAtM)
 
 ---
 
