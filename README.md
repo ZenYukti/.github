@@ -1,9 +1,12 @@
 <img src="/assets/ZenYukti Logo.png" alt="ZenYukti Logo" align="right" height="200" />
 
-<H1 align="left"> ZenYukti </H1>
+<H1 align="left" style="border-bottom: none;"> ZenYukti </H1>
 
-> *Learn. Build. Share.* 
-An inspiring developer community building real-world solutions through open collaboration
+---
+
+> *Learn. Build. Share.*
+
+<p>An inspiring **developer community** building real-world solutions through **open collaboration**</p>
 
 ## 💡 Who We Are
 
