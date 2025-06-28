@@ -1,6 +1,7 @@
 # ZenYukti
 
-<img src="/assets/ZenYukti Logo.png" alt="ZenYukti Logo" align="right" height="140" />
+<img src="/assets/ZenYukti Logo.png" alt="ZenYukti Logo" align="right" height="200" />
+
 > *Learn. Build. Share.*  
 An inspiring developer community building real-world solutions through open collaboration
 
