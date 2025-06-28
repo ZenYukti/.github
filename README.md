@@ -52,3 +52,7 @@ ZenYukti • Crafted by minds that imagine more.
 **Ayush Hardeniya**  
 *(Legal Name: Ayush Sharma)* <br>
 [Reach Out](https://ayushhardeniya.site)
+
+
+> *ZenYukti is an original initiative by Ayush Hardeniya. All materials, content, and designs are protected by copyright.*
+
