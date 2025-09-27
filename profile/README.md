@@ -1,19 +1,18 @@
 <div align="center">
   <a href="https://zenyukti.in">
-    <img src="assets\Banner.png" alt="ZenYukti Banner" width="800">
+    <img src="../assets/Banner.png" alt="ZenYukti Banner" width="800">
   </a>
   
   <h3>Learn. Build. Share.</h3>
   <h4><i>To grow together.</i></h4>
   
-  <p>
-    [Website](https://zenyukti.in) •
-    [GitHub](https://github.com/ZenYukti) •
-    [Discord](https://go.zenyukti.in/discord) •
-    [LinkedIn](https://linkedin.com/company/zenyukti) •
-    [X (Twitter)](https://x.com/zenyukti) •
-    [Instagram](https://instagram.com/zenyukti)
-  </p>
+  [Website](https://zenyukti.in) •
+  [GitHub](https://github.com/ZenYukti) •
+  [Discord](https://go.zenyukti.in/discord) •
+  [LinkedIn](https://linkedin.com/company/zenyukti) •
+  [X (Twitter)](https://x.com/zenyukti) •
+  [Instagram](https://instagram.com/zenyukti)
+
 </div>
 
 
