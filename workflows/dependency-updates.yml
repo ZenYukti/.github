@@ -1,0 +1,58 @@
+name: Dependency Updates
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Run weekly on Monday at midnight
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  dependabot:
+    name: Check for Dependency Updates
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      
+      - name: Run npm audit
+        run: npm audit --json > npm-audit.json || true
+      
+      - name: Check for outdated dependencies
+        id: outdated
+        run: |
+          npm outdated --json > outdated.json || true
+          echo "HAS_OUTDATED=$(test -s outdated.json && echo 'true' || echo 'false')" >> $GITHUB_ENV
+      
+      - name: Create Pull Request for outdated dependencies
+        if: env.HAS_OUTDATED == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore(deps): update outdated dependencies'
+          branch: dependency-updates
+          delete-branch: true
+          title: 'chore(deps): update outdated dependencies'
+          body: |
+            This PR updates outdated dependencies to their latest versions.
+            
+            *This is an automated PR created by the dependency updates workflow.*
+            
+            <details>
+            <summary>Outdated Dependencies Report</summary>
+            
+            ```
+            $(cat outdated.json)
+            ```
+            </details>
+          labels: |
+            dependencies
+            automated
+          draft: false
