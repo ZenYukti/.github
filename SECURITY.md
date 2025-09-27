@@ -83,7 +83,7 @@ We'd like to thank the following individuals for responsibly reporting security 
 
 Thank you for helping keep ZenYukti and our community safe!
 
-**Contact**: [info@zenyukti.in](mailto:info@zenyukti.in)  
+**Contact**: [support@zenyukti.in](mailto:support@zenyukti.in)  
 **Discord**: [ZenYukti Community](https://go.zenyukti.in/discord)  
 **Website**: [https://zenyukti.in](https://zenyukti.in)  
 **X (Twitter)**: [https://x.com/zenyukti](https://x.com/zenyukti)  

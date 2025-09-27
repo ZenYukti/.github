@@ -9,7 +9,7 @@
   <p>
     <a href="https://zenyukti.in">Website</a> •
     <a href="https://go.zenyukti.in/discord">Discord</a> •
-    <a href="https://go.zenyukti.in/whatsapp">WhatsApp</a> •
+    <a href="https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE">WhatsApp</a> •
     <a href="https://linkedin.com/company/zenyukti">LinkedIn</a> •
     <a href="https://x.com/zenyukti">X (Twitter)</a> •
     <a href="https://instagram.com/zenyukti">Instagram</a>
@@ -41,10 +41,10 @@
 
 ## 📌 Projects
 
-Here are some of our featured projects:
+Here is our featured project:
 
 - [**ZenYukti Website**](https://github.com/ZenYukti/zenyukti.github.io) - Our community website built with React + Vite
-- [**Community Projects**](https://zenyukti.in/projects) - Collaborative projects built by our community members
+
 
 ## 🏆 Contribute
 
