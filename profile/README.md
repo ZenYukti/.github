@@ -6,7 +6,7 @@
   <h3><i>To grow together.</i></h3>
   
   [Website](https://zenyukti.in) •
-  [GitHub](https://github.com/ZenYukti) •
+  [WhatsApp](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE) •
   [Discord](https://go.zenyukti.in/discord) •
   [LinkedIn](https://linkedin.com/company/zenyukti) •
   [X (Twitter)](https://x.com/zenyukti) •
