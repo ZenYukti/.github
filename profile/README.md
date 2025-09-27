@@ -3,8 +3,7 @@
     <img src="../assets/Banner.png" alt="ZenYukti Banner" width="800">
   </a>
   
-  <h3>Learn. Build. Share.</h3>
-  <h4><i>To grow together.</i></h4>
+  <h3><i>To grow together.</i></h3>
   
   [Website](https://zenyukti.in) •
   [GitHub](https://github.com/ZenYukti) •
@@ -57,7 +56,7 @@ Looking for a good first issue? Visit our [website repository](https://github.co
 - **Email:** [info@zenyukti.in](mailto:info@zenyukti.in)
 - **Website:** [zenyukti.in](https://zenyukti.in)
 - **Discord:** [Join our server](https://go.zenyukti.in/discord)
-- **WhatsApp:** [Join our community](https://go.zenyukti.in/whatsapp)
+- **WhatsApp:** [Join our community](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE)
 - **X (Twitter):** [@zenyukti](https://x.com/zenyukti)
 - **LinkedIn:** [ZenYukti](https://linkedin.com/company/zenyukti)
 - **Instagram:** [@zenyukti](https://instagram.com/zenyukti)
