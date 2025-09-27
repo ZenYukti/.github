@@ -2,19 +2,19 @@
 
 <div align="center">
   <a href="https://zenyukti.in">
-    <img src="../assets/ZenYuktiBanner.png" alt="ZenYukti Banner" width="800">
+    <img src="assets\Banner.png" alt="ZenYukti Banner" width="800">
   </a>
   
   <h3>Learn. Build. Share.</h3>
   <h4><i>To grow together.</i></h4>
   
   <p>
-    <a href="https://zenyukti.in">Website</a> •
-    <a href="https://github.com/ZenYukti">GitHub</a> •
-    <a href="https://go.zenyukti.in/discord">Discord</a> •
-    <a href="https://linkedin.com/company/zenyukti">LinkedIn</a> •
-    <a href="https://x.com/zenyukti">X (Twitter)</a> •
-    <a href="https://instagram.com/zenyukti">Instagram</a>
+    [Website](https://zenyukti.in) •
+    [GitHub](https://github.com/ZenYukti) •
+    [Discord](https://go.zenyukti.in/discord) •
+    [LinkedIn](https://linkedin.com/company/zenyukti) •
+    [X (Twitter)](https://x.com/zenyukti) •
+    [Instagram](https://instagram.com/zenyukti)
   </p>
 </div>
 
@@ -77,7 +77,7 @@ To test these workflows and templates locally:
 - **Website**: [https://zenyukti.in](https://zenyukti.in)
 
 **Join & Follow Us:**
-- **WhatsApp**: [https://go.zenyukti.in/whatsapp](https://go.zenyukti.in/whatsapp)
+- **WhatsApp**: [https://go.zenyukti.in/whatsapp](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE)
 - **X (Twitter)**: [https://x.com/zenyukti](https://x.com/zenyukti)
 - **LinkedIn**: [https://linkedin.com/company/zenyukti](https://linkedin.com/company/zenyukti)
 - **Discord**: [https://go.zenyukti.in/discord](https://go.zenyukti.in/discord)
