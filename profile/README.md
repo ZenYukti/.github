@@ -5,67 +5,153 @@
   
   <h3><i>To grow together.</i></h3>
   
-  [Website](https://zenyukti.in) •
-  [WhatsApp](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE) •
-  [Discord](https://go.zenyukti.in/discord) •
-  [LinkedIn](https://linkedin.com/company/zenyukti) •
-  [X (Twitter)](https://x.com/zenyukti) •
-  [Instagram](https://instagram.com/zenyukti)
-
+  [![Website](https://img.shields.io/badge/Website-zenyukti.in-blue?style=flat-square)](https://zenyukti.in)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord&logoColor=white)](https://go.zenyukti.in/discord)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zenyukti)
+  [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zenyukti)
+  
 </div>
 
+---
 
-## 🌟 About Us
+## 🌟 About ZenYukti
 
-**ZenYukti** is a **community-driven innovation hub** built on the values of collaboration, learning, and growth. We bring together creators, developers, and innovators to **Learn. Build. Share.** and grow as professionals while uplifting one another.
+**ZenYukti** is a community-driven innovation hub that fosters collaboration, continuous learning, and mutual growth. We unite creators, developers, and innovators in a professional ecosystem where everyone can **Learn. Build. Share.**
 
-- **Mission:** To grow as a professional, inspiring community by building real-world projects, collaborating openly, and uplifting one another.
-- **Motto:** *To grow together.*
-- **Identity:** ZenYukti is not a student-only circle - it is a **community-led initiative** designed with professional scalability in mind.
+### Our Foundation
 
-## 🚀 What We Do
+**Mission**  
+To cultivate a thriving professional community that drives innovation through real-world projects, open collaboration, and collective empowerment.
 
-- 🤝 Collaborative problem-solving through initiatives like **ZenSolve**
-- 🎙️ Knowledge-sharing via sessions, workshops, and **ZenTalks**
-- 🛠️ Building and contributing to real-world projects
-- 🌍 Creating an inclusive ecosystem for **professionals & learners alike**
-- Taking real world initiatives for community approach and letting people grow all along.
+**Vision**  
+Building a scalable, inclusive platform where professionals and learners transform ideas into impact.
+
+**Core Philosophy**  
+ZenYukti transcends traditional student communities — we are a professionally-oriented initiative designed for sustained growth and meaningful contribution.
+
+---
+
+## 🚀 What We Offer
+
+<table>
+  <tr>
+    <td><b>🤝 Collaborative Innovation</b></td>
+    <td>Engage in structured problem-solving through initiatives like <b>ZenSolve</b></td>
+  </tr>
+  <tr>
+    <td><b>🎙️ Knowledge Exchange</b></td>
+    <td>Access curated sessions, technical workshops, and <b>ZenTalks</b> featuring industry insights</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Real-World Projects</b></td>
+    <td>Contribute to production-grade open-source projects with tangible impact</td>
+  </tr>
+  <tr>
+    <td><b>🌍 Inclusive Ecosystem</b></td>
+    <td>A welcoming space for professionals at all experience levels</td>
+  </tr>
+  <tr>
+    <td><b>📈 Community Impact</b></td>
+    <td>Drive initiatives that create value beyond code — fostering holistic professional development</td>
+  </tr>
+</table>
+
+---
 
 ## ✨ Core Values
 
-- **Collaboration** → Build and grow together
-- **Openness** → Share ideas and knowledge freely
-- **Growth** → Inspire personal and professional development
-- **Impact** → Work on meaningful projects
-
-## 📌 Projects
-
-Here is our featured project:
-
-- [**ZenYukti Website**](https://github.com/ZenYukti/zenyukti.github.io) - Our community website built with React + Vite
-
-
-## 🏆 Contribute
-
-We welcome contributions from everyone! Check out our [contribution guidelines](https://github.com/ZenYukti/.github/blob/main/CONTRIBUTING.md) to get started.
-
-Looking for a good first issue? Visit our [website repository](https://github.com/ZenYukti/zenyukti.github.io/issues) and look for issues labeled `good first issue`.
-
-## 📬 Contact & Connect
-
-- **Email:** [info@zenyukti.in](mailto:info@zenyukti.in)
-- **Website:** [zenyukti.in](https://zenyukti.in)
-- **Discord:** [Join our server](https://go.zenyukti.in/discord)
-- **WhatsApp:** [Join our community](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE)
-- **X (Twitter):** [@zenyukti](https://x.com/zenyukti)
-- **LinkedIn:** [ZenYukti](https://linkedin.com/company/zenyukti)
-- **Instagram:** [@zenyukti](https://instagram.com/zenyukti)
-- **Commudle:** [ZenYukti Community](https://www.commudle.com/communities/zenyukti)
+```
+Collaboration  →  Building excellence through collective effort
+Openness       →  Transparent knowledge sharing and inclusive participation  
+Growth         →  Continuous personal and professional development
+Impact         →  Creating meaningful solutions to real-world challenges
+```
 
 ---
+
+## 📌 Featured Projects
+
+### Active Initiatives
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [**ZenYukti Website**](https://github.com/ZenYukti/zenyukti.github.io) | Official community platform and hub | React, Vite | 🟢 Active |
+| **ZenSolve** | Collaborative problem-solving platform | Coming Soon | 🟡 In Development |
+| **ZenTalks** | Knowledge-sharing event series | N/A | 🟢 Active |
+
+[**View All Projects →**](https://github.com/orgs/ZenYukti/repositories)
+
+---
+
+## 🏆 Get Involved
+
+### Contributing
+
+We welcome contributions from developers, designers, content creators, and community enthusiasts of all skill levels.
+
+**Quick Start:**
+1. Review our [Contribution Guidelines](https://github.com/ZenYukti/.github/blob/main/CONTRIBUTING.md)
+2. Explore [Good First Issues](https://github.com/ZenYukti/zenyukti.github.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+3. Join our [Discord](https://go.zenyukti.in/discord) to connect with maintainers
+4. Submit your pull request and become part of our story
+
+### Ways to Contribute
+- 💻 Code contributions and bug fixes
+- 📝 Documentation improvements
+- 🎨 Design and UX enhancements
+- 🧪 Testing and quality assurance
+- 💡 Feature suggestions and ideation
+- 🎤 Speaking at ZenTalks events
+- 🤝 Community support and mentorship
+
+---
+
+## 📬 Connect With Us
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Website** | [zenyukti.in](https://zenyukti.in) |
+| 📧 **Email** | [info@zenyukti.in](mailto:info@zenyukti.in) |
+| 💬 **Discord** | [Join our server](https://go.zenyukti.in/discord) |
+| 📱 **WhatsApp** | [Community Group](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE) |
+| 🐦 **X (Twitter)** | [@zenyukti](https://x.com/zenyukti) |
+| 💼 **LinkedIn** | [ZenYukti](https://linkedin.com/company/zenyukti) |
+| 📸 **Instagram** | [@zenyukti](https://instagram.com/zenyukti) |
+| 👥 **Commudle** | [ZenYukti Community](https://www.commudle.com/communities/zenyukti) |
+
+</div>
+
+---
+
+## 📊 Community Stats
+
+![GitHub Organization Stars](https://img.shields.io/github/stars/ZenYukti?style=social)
+![Discord Members](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/ZenYukti/zenyukti.github.io?style=flat-square)
+
+---
+
+## 💝 Support Us
+
+If you believe in our mission and want to support ZenYukti's growth:
 
 <div align="center">
   <a href="https://github.com/sponsors/ayushHardeniya">
     <img src="https://img.shields.io/badge/Sponsor-ZenYukti-ea4aaa?logo=github&logoColor=white&style=for-the-badge" alt="Sponsor ZenYukti">
   </a>
+</div>
+
+Your sponsorship helps us:
+- Host community events and workshops
+- Maintain and improve our open-source projects
+- Provide resources for learning and development
+- Expand our reach and impact
+
+---
+
+<div align="center">
+  <p><i>Built with ❤️ by the ZenYukti Community</i></p>
+  <p>© 2024 ZenYukti. Licensed under MIT.</p>
 </div>
