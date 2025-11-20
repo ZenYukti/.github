@@ -153,5 +153,5 @@ Your sponsorship helps us:
 
 <div align="center">
   <p><i>Built with ❤️ by the ZenYukti Community</i></p>
-  <p>© 2024 ZenYukti. Licensed under MIT.</p>
+  <p>© 2025 ZenYukti. Licensed under MIT.</p>
 </div>
