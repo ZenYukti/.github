@@ -6,7 +6,7 @@ At ZenYukti, we take security seriously. We appreciate your efforts to responsib
 
 ### Reporting Process
 
-1. **Submit Report**: Send details of the vulnerability to [info@zenyukti.in](mailto:info@zenyukti.in) with the subject line "[SECURITY] Vulnerability Report".
+1. **Submit Report**: Send details of the vulnerability to [support@zenyukti.in](mailto:support@zenyukti.in) with the subject line "[SECURITY] Vulnerability Report".
 
 2. **Encryption**: For sensitive reports, you can encrypt your message using our PGP key (available upon request).
 
@@ -81,7 +81,7 @@ We'd like to thank the following individuals for responsibly reporting security 
 
 ---
 
-Thank you for helping keep ZenYukti and our community safe!
+Thank you for helping keep **ZenYukti** and our community safe!
 
 **Contact**: [support@zenyukti.in](mailto:support@zenyukti.in)  
 **Discord**: [ZenYukti Community](https://go.zenyukti.in/discord)  
