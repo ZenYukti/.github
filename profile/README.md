@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 About ZenYukti
+## About ZenYukti
 
 **ZenYukti** is a community-driven innovation hub that fosters collaboration, continuous learning, and mutual growth. We unite creators, developers, and innovators in a professional ecosystem where everyone can **Learn. Build. Share.**
 
@@ -31,34 +31,34 @@ ZenYukti transcends traditional student communities — we are a professionally-
 
 ---
 
-## 🚀 What We Offer
+## What We Offer
 
 <table>
   <tr>
-    <td><b>🤝 Collaborative Innovation</b></td>
+    <td><b> Collaborative Innovation</b></td>
     <td>Engage in structured problem-solving through initiatives like <b>ZenSolve</b></td>
   </tr>
   <tr>
-    <td><b>🎙️ Knowledge Exchange</b></td>
+    <td><b> Knowledge Exchange</b></td>
     <td>Access curated sessions, technical workshops, and <b>ZenTalks</b> featuring industry insights</td>
   </tr>
   <tr>
-    <td><b>🛠️ Real-World Projects</b></td>
+    <td><b> Real-World Projects</b></td>
     <td>Contribute to production-grade open-source projects with tangible impact</td>
   </tr>
   <tr>
-    <td><b>🌍 Inclusive Ecosystem</b></td>
+    <td><b> Inclusive Ecosystem</b></td>
     <td>A welcoming space for professionals at all experience levels</td>
   </tr>
   <tr>
-    <td><b>📈 Community Impact</b></td>
+    <td><b> Community Impact</b></td>
     <td>Drive initiatives that create value beyond code — fostering holistic professional development</td>
   </tr>
 </table>
 
 ---
 
-## ✨ Core Values
+## Core Values
 
 ```
 Collaboration  →  Building excellence through collective effort
@@ -69,7 +69,7 @@ Impact         →  Creating meaningful solutions to real-world challenges
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Active Initiatives
 
@@ -83,7 +83,7 @@ Impact         →  Creating meaningful solutions to real-world challenges
 
 ---
 
-## 🏆 Get Involved
+## Get Involved
 
 ### Contributing
 
@@ -96,36 +96,36 @@ We welcome contributions from developers, designers, content creators, and commu
 4. Submit your pull request and become part of our story
 
 ### Ways to Contribute
-- 💻 Code contributions and bug fixes
-- 📝 Documentation improvements
-- 🎨 Design and UX enhancements
-- 🧪 Testing and quality assurance
-- 💡 Feature suggestions and ideation
-- 🎤 Speaking at ZenTalks events
-- 🤝 Community support and mentorship
+- Code contributions and bug fixes
+- Documentation improvements
+- Design and UX enhancements
+- Testing and quality assurance
+- Feature suggestions and ideation
+- Speaking at ZenTalks events
+- Community support and mentorship
 
 ---
 
-## 📬 Connect With Us
+## Connect With Us
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Website** | [zenyukti.in](https://zenyukti.in) |
-| 📧 **Email** | [info@zenyukti.in](mailto:info@zenyukti.in) |
-| 💬 **Discord** | [Join our server](https://go.zenyukti.in/discord) |
-| 📱 **WhatsApp** | [Community Group](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE) |
-| 🐦 **X (Twitter)** | [@zenyukti](https://x.com/zenyukti) |
-| 💼 **LinkedIn** | [ZenYukti](https://linkedin.com/company/zenyukti) |
-| 📸 **Instagram** | [@zenyukti](https://instagram.com/zenyukti) |
-| 👥 **Commudle** | [ZenYukti Community](https://www.commudle.com/communities/zenyukti) |
+| **Website** | [zenyukti.in](https://zenyukti.in) |
+| **Email** | [info@zenyukti.in](mailto:info@zenyukti.in) |
+| **Discord** | [Join our server](https://go.zenyukti.in/discord) |
+| **WhatsApp** | [Community Group](https://chat.whatsapp.com/DELcGN1WDFL4nCWsufJZqE) |
+| **X (Twitter)** | [@zenyukti](https://x.com/zenyukti) |
+| **LinkedIn** | [ZenYukti](https://linkedin.com/company/zenyukti) |
+| **Instagram** | [@zenyukti](https://instagram.com/zenyukti) |
+| **Commudle** | [ZenYukti Community](https://www.commudle.com/communities/zenyukti) |
 
 </div>
 
 ---
 
-## 📊 Community Stats
+## Community Stats
 
 ![GitHub Organization Stars](https://img.shields.io/github/stars/ZenYukti?style=social)
 ![Discord Members](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square)
@@ -133,7 +133,7 @@ We welcome contributions from developers, designers, content creators, and commu
 
 ---
 
-## 💝 Support Us
+## Support Us
 
 If you believe in our mission and want to support ZenYukti's growth:
 
