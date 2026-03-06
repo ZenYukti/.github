@@ -16,7 +16,7 @@
 
 ## About ZenYukti
 
-**ZenYukti** is a community-driven innovation hub that fosters collaboration, continuous learning, and mutual growth. We unite creators, developers, and innovators in a professional ecosystem where everyone can **Learn. Build. Share.**
+**ZenYukti™** is a community-driven innovation hub that fosters collaboration, continuous learning, and mutual growth. We unite creators, developers, and innovators in a professional ecosystem where everyone can **Learn. Build. Share.**
 
 ### Our Foundation
 
